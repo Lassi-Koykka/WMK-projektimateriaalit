@@ -1,20 +1,22 @@
-Käyntiosoite
+# Yhteystiedot
+
+#### Käyntiosoite
 
 KINRA ry, Microkatu 1, 
 70210 KUOPIO
 
-Postiosoite
+#### Postiosoite
 
 KINRA ry, PL 6, 
 70201 KUOPIO
 
-Yhdistyksen puhelin
+#### Yhdistyksen puhelin
 050 4352 736
 
-Y-tunnus
+#### Y-tunnus
 2153358-6
 
-Pankkiyhteys
+#### Pankkiyhteys
 Nimi: Kuopion Insinööriopiskelijat KINRA ry
 IBAN: FI30 2027 2100 1154 36
 BIC: NDEAFIHH
