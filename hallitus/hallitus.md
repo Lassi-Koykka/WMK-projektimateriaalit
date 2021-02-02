@@ -12,7 +12,7 @@ KINRAn hallitus hoitaa yhdistyksen päivittäistä toimintaa ja edustaa KINRAa e
 * Koulutuspoliittinen vastaava
 * Viestintävastaava
 
- **Niina.Rasanen[at]kinra.fi**
+**Niina.Rasanen[at]kinra.fi**
 
 ### Jesse Kejonen
 * Rahastonhoitaja
